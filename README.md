@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ### 🎉 Project and Result
 [![](https://github-readme-stats.vercel.app/api/pin/?username=hnistzdk&repo=Cold-chain-food)](https://github.com/hnistzdk/Cold-chain-food)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=hnistzdk&repo=MyBlog)](https://github.com/hnistzdk/MyBlog)
 > More projects are under development
 
 ### 💬 Want to say
