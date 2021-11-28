@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnistzdk)](https://github.com/anuraghazra/github-readme-stats) -->
+努力ing
+
+> QQ：369365576
+
 ### 📚 My Blog Address
 | 我的博客                                                | CSDN                                          |
 | --------------------------------------------------- | --------------------------------------------- |
@@ -25,6 +29,9 @@ Here are some ideas to get you started:
 
 ### 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnistzdk)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🎉 Project and Result
+[![](https://github-readme-stats.vercel.app/api/pin/?username=hnistzdk&repo=Cold-chain-food)](https://github.com/hnistzdk/Cold-chain-food)
 
 
 
