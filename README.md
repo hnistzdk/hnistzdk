@@ -37,11 +37,7 @@ Here are some ideas to get you started:
 
 ### 💬 Want to say
 
-No one ever made a difference by being like everyone else.
+If not now,when? If not me,who?
 
-> 要成为有影响力的人，不能只安于和别人相同 - 《马戏之王》
-
-All it takes is faith and trust
-
-> 所需要的只是信仰和信念 - 《小飞侠》
+> 时不我待，舍我其谁！
 
