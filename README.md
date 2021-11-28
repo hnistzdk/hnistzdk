@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hnistzdk&repo=MyBlog&show_owner=true" />
 </a>
-
-
+<br>
 > More projects are under development
 
 ### 💬 Want to say
