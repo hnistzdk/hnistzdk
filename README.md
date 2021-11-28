@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnistzdk&repo=Cold-chain-food&show_owner=true)](https://github.com/hnistzdk/Cold-chain-food)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnistzdk&repo=MyBlog&show_owner=true)](https://github.com/hnistzdk/MyBlog)
 
-> More projects are under development
 
 ### 💬 Want to say
 
