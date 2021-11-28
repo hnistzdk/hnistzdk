@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnistzdk&count_private=true)
 
 ### 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnistzdk&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnistzdk&hide=javascript,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎉 Project and Result
 [![](https://github-readme-stats.vercel.app/api/pin/?username=hnistzdk&repo=Cold-chain-food&show_owner=true)](https://github.com/hnistzdk/Cold-chain-food)
