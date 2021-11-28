@@ -33,5 +33,15 @@ Here are some ideas to get you started:
 ### 🎉 Project and Result
 [![](https://github-readme-stats.vercel.app/api/pin/?username=hnistzdk&repo=Cold-chain-food)](https://github.com/hnistzdk/Cold-chain-food)
 
+> More projects are under development
 
+### 💬 Want to say
+
+No one ever made a difference by being like everyone else.
+
+> 要成为有影响力的人，不能只安于和别人相同 - 《马戏之王》
+
+All it takes is faith and trust
+
+> 所需要的只是信仰和信念 - 《小飞侠》
 
