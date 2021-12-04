@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnistzdk)](https://github.com/anuraghazra/github-readme-stats) -->
-努力ing
+摆烂ing
 
 > QQ：369365576
 
