@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 > QQ：369365576
 
-### 📚 My Blog Address
-| 我的博客                                                | CSDN                                          |
+### 📚 My Note|Blog Address
+| 笔记                                                | 博客                                          |
 | --------------------------------------------------- | --------------------------------------------- |
-| [点我直达](http://116.62.126.207:8090/user/toIndex) | [点我直达](https://blog.csdn.net/fengzhubuliuxue) |
+| [点我直达](https://www.zaiolos.top) | [点我直达](https://blog.zaiolos.top/user/toIndex) |
 
 ### 🌈 My Github State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnistzdk&count_private=true)
