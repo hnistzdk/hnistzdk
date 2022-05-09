@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 🎉 Project and Result
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnistzdk&repo=Cold-chain-food&show_owner=true)](https://github.com/hnistzdk/Cold-chain-food)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnistzdk&repo=MyBlog&show_owner=true)](https://github.com/hnistzdk/MyBlog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnistzdk&repo=MyBlog&show_owner=true)](https://github.com/hnistzdk/upyun-spring-boot-starter)
 
 
 ### 💬 Want to say
