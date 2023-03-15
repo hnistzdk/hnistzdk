@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 > QQ：369365576
 
 ### 📚 My Note|Blog Address
-| 笔记                                                | 博客                                          |
-| --------------------------------------------------- | --------------------------------------------- |
-| [点我直达](https://www.zaiolos.top) | [点我直达](https://blog.zaiolos.top/user/toIndex) |
+| 笔记                                                |
+| --------------------------------------------------- |
+| [点我直达](https://www.zaiolos.top) |
 
 ### 🌈 My Github State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnistzdk&count_private=true)
